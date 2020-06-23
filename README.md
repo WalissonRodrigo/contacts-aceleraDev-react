@@ -1,7 +1,7 @@
-# SPA: App de Contatos - PARTE 2
+# SPA: App de Contatos
 
 ## Objetivo:
-O desafio é desenvolver um *SPA (Single Page Application)* de uma lista de contatos em **React** com as seguintes funcionalidades:
+Desafio do AceleraDEV React da Codenation onde foi desenvolvido um *SPA (Single Page Application)* de uma lista de contatos em **React** com as seguintes funcionalidades:
 
 -  Consumir os dados de contato através de uma API Rest, usando a *Fetch API* do Javascript.
 -  Busca de um contato aplicando filtro em **tempo real**.
@@ -11,8 +11,10 @@ O desafio é desenvolver um *SPA (Single Page Application)* de uma lista de cont
 
 GET: *https://5e82ac6c78337f00160ae496.mockapi.io/api/v1/contacts*
 
-### Requisitos - Parte 2:
+### Requisitos
 
+- Modularize os componentes na pasta components.
+- Atualize os arquivos de componentes carregando corretamente seus estilos e suas marcações JSX.
 - Crie os *estados* do SPA.
 - Consuma a *API de contatos* no *ciclo de vida correto* do componente.
 - Implemente a **busca** para filtrar os contatos em tempo real.
@@ -28,13 +30,10 @@ GET: *https://5e82ac6c78337f00160ae496.mockapi.io/api/v1/contacts*
 - Instale as dependências do projeto com o comando *yarn install* ou *npm install*.
 - Inicie o projeto com comando *yarn start* ou *npm start* / *npm run start*.
 
-**Preview:**
-
-[Contacts SPA](https://vimeo.com/414869096/55f4293a68)
 
 ## Tópicos:
 
-Neste desafio você vai praticar os seus conhecimentos em:
+Neste desafio foi abordado os seguintes conhecimentos em:
 
 - **React**
 - **React - Ciclo de vida de componentes**
