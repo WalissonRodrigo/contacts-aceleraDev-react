@@ -1,4 +1,5 @@
 # SPA: App de Contatos
+[![Netlify Status](https://api.netlify.com/api/v1/badges/8b291ca9-82b3-4ca6-808f-9ab20d7d502a/deploy-status)](https://app.netlify.com/sites/contatos-spa-acelera-dev-react/deploys)
 
 ## Objetivo:
 Desafio do AceleraDEV React da Codenation onde foi desenvolvido um *SPA (Single Page Application)* de uma lista de contatos em **React** com as seguintes funcionalidades:
